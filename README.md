@@ -48,12 +48,6 @@ CodeAlpha_PhishingAwareness/
 ## Quiz Slide
 ![Quiz](screenshots/quiz.png)
 
-## phishing email
-![phishing email](screenshots/phishing email.png)
-
-## final Slide
-![final slide](screenshots/final slide.png)
-
 ---
 
 ## 🎯 Objective
